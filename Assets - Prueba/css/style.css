@@ -7,6 +7,14 @@ header{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-top: 20rem;
   padding-bottom: 20rem;
+  height: 700px;
+}
+
+header div {
+  padding-top: 460px;
+}
+
+.h1_titulo{
+  font-family: 'Oswald', sans-serif;
 }
